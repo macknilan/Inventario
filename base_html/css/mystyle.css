@@ -1,0 +1,48 @@
+/*
+-------------------------------------
+	My Style 						|
+-------------------------------------
+ */
+
+body {
+	//display: flex;
+	//min-height: 100vh;
+	//flex-direction: column;
+}
+
+#idheader, #idmain, #idfooter {
+	transition: margin-left .5s;
+	//padding: 20px;
+}
+
+
+main {
+	//flex: 1 0 auto;
+}
+
+
+.site-wrap {
+    //position: relative;
+    //overflow: hidden;
+    //width: 100%;
+    //height: 5000px;
+    
+}
+
+.s-canvas {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  -webkit-transition: .3s ease all;
+  transition: .3s ease all;
+
+  padding: 5% 0; /* Temp: Just spacing. */
+}
+
+
+
+
+
+
